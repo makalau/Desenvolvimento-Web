@@ -1,3 +1,4 @@
+![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
 <h1>Brincando com a internet</h1>
 <h3>testando</h3>
 <figure id="imagem">
